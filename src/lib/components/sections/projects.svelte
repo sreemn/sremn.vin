@@ -13,7 +13,7 @@
         {
             name: "Guard Bot",
             description:
-                "Robust server management app used on more than 40,000 servers on Discord.",
+                "Robust Discord management bot used on more than 2,017 servers worldwide.",
             image: RolesBotImage,
             button: {
                 label: "Visit Website",
@@ -27,7 +27,7 @@
         {
             name: "Vylee",
             description:
-                "A concept of running a discord bot built with Typescript Embedded",
+                "Vylee keeps your infrastructure smooth with hosting that feels modern, responsive, and reliable.",
             image: PortableMediaPlayerImage,
             button: {
                 label: "Read more",
