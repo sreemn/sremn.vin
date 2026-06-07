@@ -5,21 +5,21 @@
     import Button from "$lib/components/shadcn-svelte/button/button.svelte";
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
     import PortableMediaPlayerImage from "$lib/assets/portable-media-player.webp";
-    import RolesBotImage from "$lib/assets/roles-bot.webp";
+    import fredFMBotImage from "$lib/assets/fredFM_Banner.webp";
 
     import type { Project } from "$types";
 
     const projects: Project[] = [
         {
-            name: "Guard Bot",
+            name: "fredFM Bot",
             description:
-                "Robust Discord management bot used on more than 1,030 servers worldwide.",
+                "Music Bot used in Andhra Pradesh's Discord",
             image: RolesBotImage,
             button: {
-                label: "Visit Website",
+                label: "Visit Discord",
                 icon: ExternalLinkIcon,
                 props: {
-                    href: "https://app.vylee.xyz/guard",
+                    href: "https://discord.gg/andhrapradesh",
                     target: "_blank",
                 },
             },
