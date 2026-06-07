@@ -5,7 +5,7 @@
     import Button from "$lib/components/shadcn-svelte/button/button.svelte";
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
     import PortableMediaPlayerImage from "$lib/assets/portable-media-player.webp";
-    import fredFMBotImage from "$lib/assets/fredFM_Banner.webp";
+    import RolesBotImage from "$lib/assets/fredFM_Banner.webp";
 
     import type { Project } from "$types";
 
