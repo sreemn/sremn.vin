@@ -13,7 +13,7 @@
         {
             name: "fredFM Bot",
             description:
-                "Music Bot used in my personal server for expermental",
+                "Robust music bot built for a private Discord community",
             image: fredFMBotImage,
             button: {
                 label: "Github",
