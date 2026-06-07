@@ -4,8 +4,8 @@
     import * as Item from "$lib/components/shadcn-svelte/item/index.js";
     import Button from "$lib/components/shadcn-svelte/button/button.svelte";
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
-    import PortableMediaPlayerImage from "$lib/assets/portable-media-player.webp";
-    import RolesBotImage from "$lib/assets/fredFM_Banner.webp";
+    import PortableMediaPlayerImage from "$lib/assets/portable-media-player.webp?url";
+    import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
 
     import type { Project } from "$types";
 
@@ -14,7 +14,7 @@
             name: "fredFM Bot",
             description:
                 "Music Bot used in Andhra Pradesh's Discord",
-            image: RolesBotImage,
+            image: fredFMBotImage,
             button: {
                 label: "Visit Discord",
                 icon: ExternalLinkIcon,
