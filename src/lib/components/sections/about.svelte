@@ -26,8 +26,8 @@
     </div>
 
     <p class="text-muted-foreground text-pretty">
-        I’m a computer science student living in India. I have an interest in
-        ai and web development, often delving into freelance projects alongside
+        I’m a ai&ds student living in India. I have an interest in
+        app and web development, often delving into freelance projects alongside
         my work and studies.
     </p>
 
