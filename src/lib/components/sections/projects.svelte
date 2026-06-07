@@ -16,7 +16,7 @@
                 "Music Bot used in Andhra Pradesh's Discord",
             image: fredFMBotImage,
             button: {
-                label: "Visit Discord",
+                label: "Github",
                 icon: ExternalLinkIcon,
                 props: {
                     href: "https://github.com/sreemn/fredFM",
