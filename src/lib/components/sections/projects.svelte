@@ -13,7 +13,7 @@
         {
             name: "fredFM Bot",
             description:
-                "Music Bot used in Andhra Pradesh's Discord",
+                "Music Bot used in my personal server for expermental",
             image: fredFMBotImage,
             button: {
                 label: "Github",
