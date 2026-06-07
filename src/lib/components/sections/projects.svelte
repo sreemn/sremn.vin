@@ -19,7 +19,7 @@
                 label: "Visit Discord",
                 icon: ExternalLinkIcon,
                 props: {
-                    href: "https://discord.gg/andhrapradesh",
+                    href: "https://github.com/sreemn/fredFM",
                     target: "_blank",
                 },
             },
