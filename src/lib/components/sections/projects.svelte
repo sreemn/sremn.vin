@@ -27,7 +27,7 @@
         {
             name: "TeluguSMP",
             description:
-                "TeluguSMP homepage",
+                "Unite with fellow Minecraft players to build, explore, and enjoy unforgettable adventures in TeluguSMP.",
             image: PortableMediaPlayerImage,
             button: {
                 label: "Read more",
