@@ -25,24 +25,10 @@
                 },
             },
         },
-                {
+        {
             name: "TeluguSMP",
             description:
-                "Unite with fellow Minecraft players to build, explore, and enjoy unforgettable adventures in TeluguSMP.",
-            image: TeluguSMPImage,
-            button: {
-                label: "Website",
-                icon: ExternalLinkIcon,
-                props: {
-                    href: "https://telugusmp.vercel.app",
-                    target: "_blank",
-                },
-            },
-        },
-        {
-            name: "Vylee",
-            description:
-                "Vylee provides fast, reliable hosting for modern communities.",
+                "TeluguSMP homepage",
             image: PortableMediaPlayerImage,
             button: {
                 label: "Read more",
