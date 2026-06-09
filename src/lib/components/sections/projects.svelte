@@ -6,7 +6,6 @@
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
     import PortableMediaPlayerImage from "$lib/assets/portable-media-player.webp?url";
     import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
-    import TeluguSMPImage from "$lib/assets/TeluguSMP.webp?url";
 
     import type { Project } from "$types";
 
