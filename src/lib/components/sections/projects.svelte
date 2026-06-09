@@ -6,6 +6,7 @@
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
     import PortableMediaPlayerImage from "$lib/assets/portable-media-player.webp?url";
     import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
+    import TeluguSMPImage from "$lib/assets/TeluguSMP.webp?url";
 
     import type { Project } from "$types";
 
@@ -20,6 +21,20 @@
                 icon: ExternalLinkIcon,
                 props: {
                     href: "https://github.com/sreemn/fredFM",
+                    target: "_blank",
+                },
+            },
+        },
+                {
+            name: "TeluguSMP",
+            description:
+                "Unite with fellow Minecraft players to build, explore, and enjoy unforgettable adventures in TeluguSMP.",
+            image: TeluguSMPImage,
+            button: {
+                label: "Website",
+                icon: ExternalLinkIcon,
+                props: {
+                    href: "https://telugusmp.vercel.app",
                     target: "_blank",
                 },
             },
