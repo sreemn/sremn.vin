@@ -27,7 +27,7 @@
         {
             name: "R.O.T.I Bot",
             description:
-                "A versatile and powerful app to empower your server.",
+                "A powerful Discord bot for moderation, automation, and community management.",
             image: RotiBotImage,
             button: {
                 label: "Read more",
