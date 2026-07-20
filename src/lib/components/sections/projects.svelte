@@ -4,7 +4,7 @@
     import * as Item from "$lib/components/shadcn-svelte/item/index.js";
     import Button from "$lib/components/shadcn-svelte/button/button.svelte";
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
-    import PortableMediaPlayerImage from "https://cdn.discordapp.com/banners/1210889784130801764/010a8c6e65a54348314c8bb5adb4db37.webp?size=1024";
+    import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
     import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
 
     import type { Project } from "$types";
