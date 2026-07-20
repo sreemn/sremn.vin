@@ -25,9 +25,9 @@
             },
         },
         {
-            name: "TeluguSMP",
+            name: "R.O.T.I Bot",
             description:
-                "Unite with fellow Minecraft players to build, explore, and enjoy unforgettable adventures in TeluguSMP.",
+                "A versatile and powerful app to empower your server.",
             image: PortableMediaPlayerImage,
             button: {
                 label: "Read more",
