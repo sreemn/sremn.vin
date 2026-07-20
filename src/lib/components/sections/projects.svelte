@@ -4,7 +4,7 @@
     import * as Item from "$lib/components/shadcn-svelte/item/index.js";
     import Button from "$lib/components/shadcn-svelte/button/button.svelte";
     import { AspectRatio } from "$lib/components/shadcn-svelte/aspect-ratio/index.js";
-    import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
+    import RotiBotImage from "$lib/assets/roti_Banner.webp?url";
     import fredFMBotImage from "$lib/assets/fredFM_Banner.webp?url";
 
     import type { Project } from "$types";
