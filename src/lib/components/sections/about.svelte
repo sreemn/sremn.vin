@@ -26,9 +26,7 @@
     </div>
 
     <p class="text-muted-foreground text-pretty">
-        I’m a ai&ds student living in India. I have an interest in
-        app and web development, often delving into freelance projects alongside
-        my work and studies.
+        I’m a ai&ds student living in India. I have an interest in web and app development, often delving into freelance projects alongside my work and studies.
     </p>
 
     <p class="text-muted-foreground text-pretty">
