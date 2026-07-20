@@ -28,7 +28,7 @@
             name: "R.O.T.I Bot",
             description:
                 "A versatile and powerful app to empower your server.",
-            image: PortableMediaPlayerImage,
+            image: RotiBotImage,
             button: {
                 label: "Read more",
                 icon: ConstructionIcon,
