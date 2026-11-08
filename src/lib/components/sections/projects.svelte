@@ -25,9 +25,9 @@
             },
         },
         {
-            name: "R.O.T.I Bot",
+            name: "Sole Chat",
             description:
-                "A powerful Discord bot for moderation, automation, and community management.",
+                "End-to-End Encrypted Chat with Destructive Abilities.",
             image: RotiBotImage,
             button: {
                 label: "Read more",
